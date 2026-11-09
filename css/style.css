@@ -1,0 +1,12 @@
+header{
+    padding: 20px;
+    background-color: rgb(28, 49, 245);
+}
+
+.container-xxl { 
+  width: 750px;
+}
+.container-md{
+    
+    background-color: gray;
+}
