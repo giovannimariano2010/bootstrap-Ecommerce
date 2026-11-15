@@ -1,0 +1,106 @@
+header{
+    padding: 20px;
+    background-color: rgb(28, 49, 245);
+    
+}
+
+footer{
+    margin-top: 20%;
+    padding-top: 20px;
+    padding: 20px;
+    background-color: black;
+}
+
+section{
+    margin-top: 15px;
+    background-color: rgb(230, 227, 227);
+    
+}
+
+main{
+    text-align: center;
+}
+
+body{
+    background-color:rgba(1, 2, 48, 0.932);
+    
+}
+
+.header{
+    padding: 20px;
+    background-color: rgb(28, 49, 245);
+    background-image: url("/img/fundo-inicial.avif");
+    background-repeat: round;
+}
+.container-md{
+    margin-top: 22px;
+    background-color: rgb(3, 96, 133);
+}
+
+.container{
+    margin-top: 32px;
+    padding: 33px;
+    background-color: rgb(15, 3, 172);
+}
+
+.banner{
+    margin-top: 20px;
+    padding: 250px;
+    background-image: url(/img/Banner\ para\ Site\ Promoção\ Black\ Friday\ Ofertas\ Imperdíveis\ Neon\ Azul\ e\ Preto.png);
+    background-repeat: round;
+}
+
+.fluid{
+    margin-top: 20px;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.container-fluid{
+    background-color: aliceblue;
+}
+
+.categoria{
+    text-align: center;
+    color: aqua;
+}
+
+.jogos-semana{
+    color: aqua;
+}
+
+.titulo{
+    color: aqua;
+}
+
+.body-transacao{
+    background-color: aliceblue;
+}
+
+.d-grid{
+    padding-top: 90%;
+}
+.botao-lista-desejos{
+    text-align: center;
+}
+
+.titulo-biblioteca{
+    color: aqua;
+}
+
+.body-conta, .body-compra-foice, .body-compra-zuko, .compra-spiderman, .body-compra-nintendo{
+    background-color: aliceblue;
+}
+
+.body-ficha-foice, .body-ficha-zuko, .body-ficha-nintendo, .body-ficha-spiderman{
+    background-color: aliceblue;
+}
+
+.button{
+    text-align: center;
+}
+
+.container-xxl{
+    text-align: center;
+}
