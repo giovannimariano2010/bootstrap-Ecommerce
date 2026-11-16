@@ -29,7 +29,7 @@ body{
 .header{
     padding: 20px;
     background-color: rgb(28, 49, 245);
-    background-image: url("img/fundo-inicial.avif");
+    background-image: url("../img/fundo-inicial.avif");
     background-repeat: round;
 }
 .container-md{
